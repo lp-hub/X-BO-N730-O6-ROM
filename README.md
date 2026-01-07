@@ -12,10 +12,10 @@ proc_emmc.txt
 proc_partinfo.txt
 
 SYS00_pgpt          Partition table maps (GPT)
-SYS06_lk.bin	  Little Kernel (Bootloader). Low-level code to load the OS.
-SYS07_boot.img	  Kernel & Ramdisk. Essential for system startup.
+SYS06_lk.bin	      Little Kernel (Bootloader). Low-level code to load the OS.
+SYS07_boot.img	    Kernel & Ramdisk. Essential for system startup.
 SYS08_recovery.img  Recovery system. Used for system maintenance.
-SYS10_logo.bin	  Boot logo image on startup.
+SYS10_logo.bin	    Boot logo image on startup.
 SYS18_system.img	  Main Android OS files with standard apps and frameworks.
 SYS22_sgpt          Partition table maps (GPT)
 
