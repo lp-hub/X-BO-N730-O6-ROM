@@ -1,6 +1,7 @@
 # X-BO-N730-O6-ROM
-EMMC ROM firmware files from Chinese mobile phone X-BO N730 O6
+## EMMC ROM firmware files from Chinese mobile phone X-BO N730 O6
 
+```
 MediaTek (MTK) MT6580, though it is suspicious.
 4GB memory instead of 8GB, which phone shows.
 Physical size 540x960, but scrcpy shows 536X960.
@@ -26,4 +27,5 @@ ro.build.characteristics=default
 ro.custom.kst.build.version=V128_QHD_V2.0_20160422_1746_V1.1.5_XX_O6
 ro.custom.kst.build.date=20160422_1746
 
+```
 DISCLAIMER: NO ROOT. ORIGINAL ROMs. THIS FIRMWARE DUMP IS PROVIDED FOR EDUCATIONAL AND DEVICE RECOVERY PURPOSES. MEDIATEK FIRMWARE BLOBS REMAIN THE PROPERTY OF THEIR RESPECTIVE OWNERS. IF YOU WANT TO USE THESE FILES, DO EVERYTHING AT YOUR OWN RISK.
