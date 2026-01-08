@@ -3,7 +3,7 @@
 
 ```
 MediaTek (MTK) MT6580, though it is suspicious.
-4GB memory instead of 8GB, which phone shows.
+4GB memory instead of 8GB, 1.7GB for user data.
 Physical size 540x960, but scrcpy shows 536X960.
 scrcpy shows Android 5.1 and phone shows Android 6.0.
 
